@@ -1,0 +1,10 @@
+streamlit
+vnstock
+pandas
+numpy
+matplotlib
+seaborn
+ta
+plotly
+scipy
+ipython
